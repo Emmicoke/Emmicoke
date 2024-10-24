@@ -35,7 +35,7 @@ Fahrettin Emin Korkut</a></h1>
       </div>
 
 </p>
-<table align="center">
+<!-- <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
@@ -50,4 +50,4 @@ Fahrettin Emin Korkut</a></h1>
   
   </td>
 </tr>
-</table>
+</table> -->
