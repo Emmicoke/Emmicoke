@@ -24,10 +24,10 @@ Fahrettin Emin Korkut</a></h1>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fahrettin-emin-korkut-b94698237/">
-			<img src="https://static.vecteezy.com/system/resources/previews/018/910/721/non_2x/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg"></a>
+			<img src="https://static.vecteezy.com/system/resources/previews/018/910/721/non_2x/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="30" height="30"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Emmicoke">
-		<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/femin_korkut/">
+		<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/femin_korkut/"width="30" height="30">
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
