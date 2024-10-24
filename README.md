@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Fahrettin Emin Korkut</a></h1>
+<h3 align="center">I am a software engineering student who has interest in Mobile App Develpoment, Web Development and Image processing &#127470;&#127475</h3>
 <h3 align="center">I am a software engineering student who has interest in Mobile App Develpoment, Web Development and Image processing</h3>
 
 <a target="_blank" align="center">
@@ -12,25 +13,25 @@ Fahrettin Emin Korkut</a></h1>
 
 - 🤝 I’m available for internship.
 
-- 🌱 I’m currently learning and learned:
-
+- 🌱 I’m currently learning React, React-Native, PHP, MySQL
+- 🌱 I’m currently learning and learned React, React-Native, PHP, MySQL
   <div>
-	  <img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" alt="C" width="40" height="40" margin-right="5">
-	  <img src="https://icon2.cleanpng.com/40180408/xew/avb9b16cz.webp" alt="C++" width="40" height="40" margin-right="5">
-	  <img src="https://banner2.cleanpng.com/40190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp" alt="Python" width="40" height="40" margin-right="5">
-	  <img src="https://logos-world.net/wp-content/uploads/4022/07/Java-Logo.png" alt="Java" width="40" height="40" margin-right="5">
-	  <img src="https://banner2.cleanpng.com/40190129/vxi/kisspng-javascript-web-applications-scalable-vector-graphi-1713908481051.webp" alt="JavaScript" width="40" height="40" margin-right="5">
-	  <img src="https://banner2.cleanpng.com/40180802/tpl/8d69cc4026ef9ea2fbc9f5972dd52fe7.webp" alt="HTML5" width="40" height="40" margin-right="5">
-	  <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="CSS3" width="40" height="40" margin-right="5">
-	  <img src="https://banner2.cleanpng.com/40180411/wre/avf0mauoj.webp" alt="MySQL" width="40" height="40" margin-right="5">
-	  <img src="https://banner2.cleanpng.com/40180523/fuf/avqcugi94.webp" alt="Unity" width="40" height="40" margin-right="5">
-	  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuawUuQCcq6fD-KpdmL4QixUOyqQqdrVNIDg&s" alt="Firebase" width="40" height="40" margin-right="5">
-	  <img src="https://banner2.cleanpng.com/40180904/xhu/kisspng-logo-image-computer-icons-php-portable-network-gra-william-davies-meng-mongodb-1713944344684.webp" alt="PHP" width="40" height="40" margin-right="5">
-	  <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon.png" alt="React" width="40" height="40" margin-right="5">
-	  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React-Native" width="40" height="40" margin-right="5">
-	  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3q95452Z0TgKD_sieXJ-TAPsFpVk5NvBEAw&s" alt="OpenCV" width="40" height="40" margin-right="5">
-	  <img src="https://w7.pngwing.com/pngs/170/529/png-transparent-wordpress-cms-logo-thumbnail.png" alt="WordPress" width="40" height="40" margin-right="5">
-	  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Figma" width="40" height="40" margin-right="5">
+	  <img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" alt="C" width="20" height="20" margin-right="5">
+	  <img src="https://icon2.cleanpng.com/20180408/xew/avb9b16cz.webp" alt="C++" width="20" height="20" margin-right="5">
+	  <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp" alt="Python" width="20" height="20" margin-right="5">
+	  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java" width="20" height="20" margin-right="5">
+	  <img src="https://banner2.cleanpng.com/20190129/vxi/kisspng-javascript-web-applications-scalable-vector-graphi-1713908481051.webp" alt="JavaScript" width="20" height="20" margin-right="5">
+	  <img src="https://banner2.cleanpng.com/20180802/tpl/8d69cc4026ef9ea2fbc9f5972dd52fe7.webp" alt="HTML5" width="20" height="20" margin-right="5">
+	  <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="CSS3" width="20" height="20" margin-right="5">
+	  <img src="https://banner2.cleanpng.com/20180411/wre/avf0mauoj.webp" alt="MySQL" width="20" height="20" margin-right="5">
+	  <img src="https://banner2.cleanpng.com/20180523/fuf/avqcugi94.webp" alt="Unity" width="20" height="20" margin-right="5">
+	  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuawUuQCcq6fD-KpdmL4QixUOyqQqdrVNIDg&s" alt="Firebase" width="20" height="20" margin-right="5">
+	  <img src="https://banner2.cleanpng.com/20180904/xhu/kisspng-logo-image-computer-icons-php-portable-network-gra-william-davies-meng-mongodb-1713944344684.webp" alt="PHP" width="20" height="20" margin-right="5">
+	  <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon.png" alt="React" width="20" height="20" margin-right="5">
+	  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React-Native" width="20" height="20" margin-right="5">
+	  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3q95452Z0TgKD_sieXJ-TAPsFpVk5NvBEAw&s" alt="OpenCV" width="20" height="20" margin-right="5">
+	  <img src="https://w7.pngwing.com/pngs/170/529/png-transparent-wordpress-cms-logo-thumbnail.png" alt="WordPress" width="20" height="20" margin-right="5">
+	  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Figma" width="20" height="20" margin-right="5">
   </div>
 
 - 📫 How to reach me **fahrettineminkorkut@gmail.com**
