@@ -17,14 +17,14 @@ Fahrettin Emin Korkut</a></h1>
 	  <img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" alt="C" width="45" height="45" margin-right="5">
 	  <img src="https://icon2.cleanpng.com/20180408/xew/avb9b16cz.webp" alt="C++" width="45" height="45" margin-right="5">
 	  <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp" alt="Python" width="45" height="45" margin-right="5">
-	  <img src="https://e7.pngegg.com/pngimages/279/249/png-clipart-java-logo-programming-language-java-plum-miscellaneous-text-thumbnail.png" alt="Java" width="45" height="45" margin-right="5">
+	  <img src="https://banner2.cleanpng.com/20180605/vkg/aa9zmd6ku.webp" alt="Java" width="45" height="45" margin-right="5">
 	  <br>
 	  <img src="https://banner2.cleanpng.com/20190129/vxi/kisspng-javascript-web-applications-scalable-vector-graphi-1713908481051.webp" alt="JavaScript" width="45" height="45" margin-right="5">
 	  <img src="https://banner2.cleanpng.com/20180802/tpl/8d69cc4026ef9ea2fbc9f5972dd52fe7.webp" alt="HTML5" width="45" height="45" margin-right="5">
 	  <img src="https://icon2.cleanpng.com/20190409/ifs/kisspng-cascading-style-sheets-logo-css3-html-javascript-1713898718674.webp" alt="CSS3" width="45" height="45" margin-right="5">
 	  <img src="https://banner2.cleanpng.com/20180411/wre/avf0mauoj.webp" alt="MySQL" width="45" height="45" margin-right="5">
 	  <br>
-	  <img src="https://banner2.cleanpng.com/20180704/jwq/kisspng-unity-technologies-3d-computer-graphics-shader-pro-3d-png-5b3c9e1ac88e73.6634283815306992908215.jpg" alt="Unity" width="45" height="45" margin-right="5">
+	  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7igiovy6sLXUn-diR8Ghz9bq8M57VGaP1iA&s" alt="Unity" width="45" height="45" margin-right="5">
 	  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuawUuQCcq6fD-KpdmL4QixUOyqQqdrVNIDg&s" alt="Firebase" width="45" height="45" margin-right="5">
 	  <img src="https://banner2.cleanpng.com/20180904/xhu/kisspng-logo-image-computer-icons-php-portable-network-gra-william-davies-meng-mongodb-1713944344684.webp" alt="PHP" width="45" height="45" margin-right="5">
 	  <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon.png" alt="React" width="45" height="45" margin-right="5">
