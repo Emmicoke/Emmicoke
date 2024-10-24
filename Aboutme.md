@@ -23,13 +23,15 @@ Fahrettin Emin Korkut</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fahrettin-emin-korkut-b94698237/">
-			<img src="https://static.vecteezy.com/system/resources/previews/018/910/721/non_2x/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="30" height="30"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Emmicoke">
-		<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/femin_korkut/"width="30" height="30">
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+       <a href="mailto:fahrettineminkorkut@gmail.com"> <img
+                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVHcEzZUUXXd2/z9PTeU0fZbmbo5+f0+vrx8vLbQjPaSz7WTkHotLHBOyzDTkPAOCjhhX7ZeHHEo6DqzMrFxcS8cGrae3Ti4uLMdm/p6urQ1NS8OSrl5eWBeqqfAAAAHXRSTlMAc5qd//z//////6Pxof3//+n////y6P/z//9ysazRhhoAAADtSURBVHgB1ZJXgoMwDERTXEUH7wo5uf85Y4mOyQEyCXXevC9uP5L74/klj7v0SmljXRZrtAcmCqWULzPClt4DFDOgIEmyeUrFQM0ES85zgEYAqGtgonUzYp3Mfd3MAHQ9OwAGIewgNYS/FfjHMC4S61rpx4A7gDD0MEkG4B76iDRugEEMQXuWeFDgdYhoTgCG2INYeJ76DEhEksA0R5MbmIi99zxHk+I2oJsAjDEGnvPekMsMTMiF97Qz+MWAfJ33RDlgnKNZQFcAOWJC/FdAaoWQPgcM1zNBR+DFgHTLfwe85KMsHu/LPCrufyEfyewjNsxN1fgAAAAASUVORK5CYII="
+                    alt="e-mail"> </a>
+            <br><a href="https://www.linkedin.com/in/fahrettin-emin-korkut-b94698237/"> <img
+                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAYFBMVEUAd7X///8Ac7NGlMRGk8QAdrUAbLAAbrDZ7PXV6fPy+fw9ir/p9Pkugbo0hr3D2umz0ORUnMh3q9C72eplocoIe7dsps6dxN6lyeCDs9TL4u+WwNzg7vVTmMYhg7uy1OcLxWtDAAABaklEQVRIie3W7Y6CMBAFUBxohwIK8qEIgu//lltou7TortNu9p83MRGSIzgzlEaHwETyU51jr5wrBWsODDzCgNcLrHjkHV5JOIE/hEnCOATGEiYhMHGgLBELgdi1lxlJ1IH8uvS17CjShtiriRCekM1mlm7oBaE2sCEMhA1vBg5+kCUG9n63GmGqXJYTqmNDlhcrrAkXdPsIx3FI+4TidpPDkHNOm7ndrP6U9TH/5VZxDewPsEvaS5t0CK8h9qXKSd4tq9T3EaC73rOl2EVp/X0bcqcddzMMU7YtbFuHHShsqH+lnJwlsUIqFIW7mLZAhPuYOfaGh5nR4fBotgLVQIWik+PE+11h38NCLUGmV+Ypfw9HdQU0j/lAhfr9AKafggizXHc81/VJibA4qvKzk4HE4nzgB/4jfLU8UiA26RqxQn0wfEOhTjTPMEIdZh9EOsw9QXzpPOdvMHgTGLztDN7oBm+twzfzYfkCChobmnKthiYAAAAASUVORK5CYII="
+                    alt="Linkedin"> </a>
+            <br><a href="https://github.com/Emmicoke"> <img
+                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAZlBMVEX///8XFRUAAAATEREKBgYRDg7t7e2BgIA3NjbZ2dlTUlLq6urCwsKJiIjGxsb39/ebm5uPj492dXVwcHC5ubnMzMyqqqo+PT1OTU0lJCRYWFiysrIwLy/j4+NIR0d7e3tkY2MdGxs/J1iEAAAB9klEQVRIie2W23aDIBBFdUCNmqjUaDRGY/7/JztcvOFg0qeurtXzZIFNYWY4E8/71x9QXtWFEEVd5T+hevGAWQ/Rf4hVDUDgzwoAhuoDLEyA+5Y4NOE7rttjGu2OuSdQmBR8HXGjk0NydHPlAYdk6eIK0EEEtiUY6DBDQXO94k5eLAC/GJdJ5LgHgIi9QZExCbbLrgUySfmMygQ/xHKaF8XV6oJwVX+k6TQc6q+znq0JUN8MzvQ9KtC33c9cdURdiXZPD/ww5qYy+GBP5CaF4HgK6TRvP7PpKILmTFjn4C26AL3hIrPgYg3f1RWDm5PzErWC363hF3v3BCKdELsGHAdZSZglNPh0g5cjkI9usKRBn5E3WOmkDIz51nDC36TDVAhPrPHIHIQqf6XOLIjoccZdoL7LvsrDqRYdmZzsD3YGq+4eEGdRMrmQzmJLGkCA5u/Dbecs8W2yPyoG4PNSbR1gn8nm19Vnol1aCeEA8t3AoA+FFjnX8rjuQLRBoulIsoVNDKYX7rIcT/sRvtN8QEtsl+HH6h862h0WgYpaWqWr0fvcvuiASzVAeMcMQuPiPA/DDols+/0ehAN3wFrHpMiesdrcgGBXtyWhgr92FgUGbvubFLeYFgtk0NJ9aquObY6KZcje/ACYlZWr1nMusw+xf/2evgEGFBJqrqKT4AAAAABJRU5ErkJggg=="
+                    alt="GitHub"> </a>
       </div>
 
 </p>
