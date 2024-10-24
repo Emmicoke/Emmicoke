@@ -17,7 +17,7 @@ Fahrettin Emin Korkut</a></h1>
 	  <img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" alt="C" width="45" height="45" margin-right="5">
 	  <img src="https://icon2.cleanpng.com/20180408/xew/avb9b16cz.webp" alt="C++" width="45" height="45" margin-right="5">
 	  <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp" alt="Python" width="45" height="45" margin-right="5">
-	  <img src="https://banner2.cleanpng.com/20180605/vkg/aa9zmd6ku.webp" alt="Java" width="45" height="45" margin-right="5">
+	  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java" width="45" height="45" margin-right="5">
 	  <br>
 	  <img src="https://banner2.cleanpng.com/20190129/vxi/kisspng-javascript-web-applications-scalable-vector-graphi-1713908481051.webp" alt="JavaScript" width="45" height="45" margin-right="5">
 	  <img src="https://banner2.cleanpng.com/20180802/tpl/8d69cc4026ef9ea2fbc9f5972dd52fe7.webp" alt="HTML5" width="45" height="45" margin-right="5">
