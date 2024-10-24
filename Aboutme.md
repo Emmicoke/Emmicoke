@@ -32,6 +32,8 @@ Fahrettin Emin Korkut</a></h1>
             <a href="https://github.com/Emmicoke"> <img
                     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s"
                     alt="GitHub" width="50" height="50"> </a>
+             <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/femin_korkut">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
       </div>
 
 </p>
