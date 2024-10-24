@@ -33,7 +33,7 @@ Fahrettin Emin Korkut</a></h1>
                     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s"
                     alt="GitHub" width="50" height="50"> </a>
              <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/femin_korkut">
-			<img src="https://as2.ftcdn.net/v2/jpg/02/98/31/59/1000_F_298315933_FdK3b8wCs7EhYWlJqieSvmSgTOr9MSfR.jpg"></a>
+			<img src="https://img.freepik.com/free-vector/instagram-logo_1199-122.jpg?semt=ais_hybrid" width="50" height="50"></a>
       </div>
 
 </p>
