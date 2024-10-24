@@ -47,7 +47,7 @@ Fahrettin Emin Korkut</a></h1>
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Emmicoke&theme=dark)](https://git.io/streak-stats)
   </td>
 </tr>
 </table>
