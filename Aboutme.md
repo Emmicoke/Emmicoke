@@ -44,8 +44,7 @@ Fahrettin Emin Korkut</a></h1>
 </td>
 
 <td width="50%" align="center">
-
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Emmicoke&theme=dark)](https://git.io/streak-stats)
   </td>
 </tr>
 </table>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Emmicoke&theme=dark)](https://git.io/streak-stats)
