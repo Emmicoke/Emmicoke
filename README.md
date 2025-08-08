@@ -10,7 +10,7 @@ Fahrettin Emin Korkut</a></h1>
 
 - 🌱 I’m currently working on Mobile App(React-Native), Web Development and Web Design(HTML5, CSS3) and Image Processing(Pyhton, OpenCV)
 
-- 🤝 I’m available for internship.
+- 🤝 I’m available for an internship and job.
 
 - 🌐 I’m currently learning and learned:
   <div>
