@@ -6,7 +6,7 @@ Fahrettin Emin Korkut</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently studying in <a href="https://lee.eskisehir.edu.tr" target="blank">Eskisehir Technical University</a>
+- 🔭 I am currently pursuing a Master's degree in Computer Engineering at <a href="https://lee.eskisehir.edu.tr" target="blank">Eskisehir Technical University</a>
 
 - 🌱 I’m currently working on Mobile App(React-Native), Web Development and Web Design(HTML5, CSS3) and Image Processing(Pyhton, OpenCV)
 
