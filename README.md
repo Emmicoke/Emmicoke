@@ -1,32 +1,32 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Fahrettin Emin Korkut</a></h1>
-<h3 align="center">I am a software engineering student who has interest in Mobile App Development, Web Development and Image processing</h3>
+<h3 align="center">I am a software engineer who has interest in Mobile App Development, Web Development and Image processing</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently studying in <a href="https://www.hku.edu.tr" target="blank">Hasan Kalyoncu University</a>
+- 🔭 I’m currently studying in <a href="https://lee.eskisehir.edu.tr" target="blank">Eskisehir Technical University</a>
 
 - 🌱 I’m currently working on Mobile App(React-Native), Web Development and Web Design(HTML5, CSS3) and Image Processing(Pyhton, OpenCV)
 
-- 🤝 I’m available for an internship and job.
+- 🤝 I’m available for an job.
 
 - 🌐 I’m currently learning and learned:
   <div>
 	  <img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" alt="C" width="45" height="45" margin-right="5">
-	  <img src="https://icon2.cleanpng.com/20180408/xew/avb9b16cz.webp" alt="C++" width="45" height="45" margin-right="5">
-	  <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp" alt="Python" width="45" height="45" margin-right="5">
+	  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="C++" width="45" height="45" margin-right="5">
+	  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBRZlXW9qBBrbViMY6_2k3k3xlVJHbRO-YzpQ0k95Kg&s=10" alt="Python" width="45" height="45" margin-right="5">
 	  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java" width="45" height="45" margin-right="5">
 	  <br>
-	  <img src="https://banner2.cleanpng.com/20190129/vxi/kisspng-javascript-web-applications-scalable-vector-graphi-1713908481051.webp" alt="JavaScript" width="45" height="45" margin-right="5">
-	  <img src="https://banner2.cleanpng.com/20180802/tpl/8d69cc4026ef9ea2fbc9f5972dd52fe7.webp" alt="HTML5" width="45" height="45" margin-right="5">
-	  <img src="https://icon2.cleanpng.com/20190409/ifs/kisspng-cascading-style-sheets-logo-css3-html-javascript-1713898718674.webp" alt="CSS3" width="45" height="45" margin-right="5">
-	  <img src="https://banner2.cleanpng.com/20180411/wre/avf0mauoj.webp" alt="MySQL" width="45" height="45" margin-right="5">
+	  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtW41-f13wcfMVqPEl9X70IAV9fvf7oYE6svE8e4xIEA&s=10" alt="JavaScript" width="45" height="45" margin-right="5">
+	  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" alt="HTML5" width="45" height="45" margin-right="5">
+	  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9QWgkkfV60KocWN1LF9LOkFTr_9NFSYIwQbzVlpVYdvVIY4LcXZ5Ygo&s=10" alt="CSS3" width="45" height="45" margin-right="5">
+	  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGKKIAXApYq_UIl6UnkwmBP60aGM-c-wf8iTvKb-DsA&s=10" alt="MySQL" width="45" height="45" margin-right="5">
 	  <br>
 	  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7igiovy6sLXUn-diR8Ghz9bq8M57VGaP1iA&s" alt="Unity" width="45" height="45" margin-right="5">
 	  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuawUuQCcq6fD-KpdmL4QixUOyqQqdrVNIDg&s" alt="Firebase" width="45" height="45" margin-right="5">
-	  <img src="https://banner2.cleanpng.com/20180904/xhu/kisspng-logo-image-computer-icons-php-portable-network-gra-william-davies-meng-mongodb-1713944344684.webp" alt="PHP" width="45" height="45" margin-right="5">
+	  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwBzpN4elNF5lnZPfKL6lezDwb8LeTQQqvDyzjPubcHi71Site5hRvQT0&s=10" alt="PHP" width="45" height="45" margin-right="5">
 	  <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon.png" alt="React" width="45" height="45" margin-right="5">
 	  <br>
 	  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React-Native" width="45" height="45" margin-right="5">
